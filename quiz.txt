@@ -1,0 +1,60 @@
+1. Ktore medium transmisyjne sieci LAN zaleca sie do zastosowania w zabytkowych budynkach?
+a) Swiatlowod
+b) Fale radiowe
+c) Kabel typu "skretka"
+d) Kabel koncentryczny
+b
+2. W modelu hierarchicznym sieci, komputery uzytkownikow sa elementami warstwy:
+a) rdzenia
+b) dostepu
+c) dystrybucji
+d) szkieletowej
+b
+3. Do zakonczenia skretki wtykiem 8P8C jest stosowane:
+a) narzedzie uderzeniowe
+b) spawarka swiatlowodowa
+c) zaciskarka do zlaczy typu F
+d) zaciskarka do wtykow RJ-45
+d
+4. Wskaz domyslna maske dla adresu IP klasy B:
+a) 255.255.255.255
+b) 255.255.255.0
+c) 255.255.0.0
+d) 255.0.0.0
+c
+5. Ktory z podanych adresow jest adresem klasy C?
+a) 125.9.3.234
+b) 154.0.12.50
+c) 176.18.5.26
+d) 196.74.6.29
+d
+6. Przynaleznosc komputera do konkretnej sieci wirtualnej nie moze byc okreslana na podstawie:
+a) numeru portu przelacznika
+b) znacznika ramki Ethernet 802.1Q
+c) nazwy komputera w sieci lokalnej
+d) adresu MAC karty sieciowej komputera
+c
+7. Zalecana wielkosc pamieci RAM dla systemu operacyjnego Windows Server 2008 to co najmniej
+a) 512 MB
+b) 1 GB
+c) 1,5 GB
+d) 2 GB
+d
+8. Ktore polecenie systemu Windows Server 2008 umozliwia promowanie serwera do roli kontrolera domeny?
+a) gpedit
+b) gpresult
+c) dcpromo
+d) nslookup
+c
+9. Zadaniem programu Wireshark jest:
+a) zabezpieczenie komputera przed wirusami
+b) monitorowanie dzialania uzytkownikow sieci
+c) sprawdzanie wydajnosci elementow komputera
+d) zapobieganie dostepowi do komputera przez siec
+b
+10. W technologii Ethernet protokol dostepu do nosnika CSMA/CD jest metoda z:
+a) unikaniem kolizji
+b) priorytetami zadan
+c) wykrywaniem kolizji
+d) przekazywaniem zetonu
+c
